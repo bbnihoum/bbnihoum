@@ -5,12 +5,12 @@
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?logo=githubactions&logoColor=white)
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=bbnihoum&color=blue&style=flat-square)
 
 ---
 
 ## 🌩️ About Me  
-I’m an **AWS Cloud Engineer** with 4+ years of experience in IT and cloud systems.  
+I’m an **AWS Cloud Engineer** with 10+ years of experience in IT and cloud systems.  
 I specialize in designing, automating, and optimizing **cloud-native infrastructures** that are secure, scalable, and cost-efficient.  
 
 - 🚀 Building **Infrastructure as Code** with Terraform & CloudFormation  
@@ -50,20 +50,20 @@ I specialize in designing, automating, and optimizing **cloud-native infrastruct
 
 ## 📈 GitHub Stats  
 
-![Brahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Brahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnihoum&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbnihoum&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📊 GitHub Activity Graph  
 
-[![Brahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bbnihoum&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbnihoum&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
