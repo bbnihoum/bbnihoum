@@ -10,7 +10,7 @@
 ---
 
 ## 🌩️ About Me  
-I’m an **AWS Cloud Engineer** with 10+ years of experience in IT and cloud systems.  
+I’m an **AWS Cloud Engineer** with 4 years of experience in IT and cloud systems.  
 I specialize in designing, automating, and optimizing **cloud-native infrastructures** that are secure, scalable, and cost-efficient.  
 
 - 🚀 Building **Infrastructure as Code** with Terraform & CloudFormation  
